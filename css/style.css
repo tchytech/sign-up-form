@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.sign-up{
+    box-shadow: 1px 1px 3px 3px rgb(161, 160, 160);
+    width: 580px;
+    height: 620px;
+   margin-left: 50rem;
+   margin-top: 50px;
+    padding: 40px;
+    font-family: 'Roboto', sans-serif;
+}
+.sign-up h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    color: rgb(36, 34, 34);
+}
+.paragraph{
+    text-align: center;
+    font-size: 15px;
+    font-weight: lighter;
+    color: rgb(24, 23, 23);
+}
+.textbox{
+    width: 360px;
+    overflow: hidden;
+    font-size: 20px;
+    padding: 12px 10px;
+    margin: 12px 10px;
+    border-bottom: 1px solid #585858;
+}
+.textbox input{
+    border: none;
+    outline: none;
+    background: transparent;
+    color: #fff;
+    font-size: 16px;
+    height: 40px;
+}
+.btn{
+    height: 40px;
+    width: 360px;
+    background: #0aaa52;
+    border: none;
+    outline: none;
+    color:#fff;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+    margin: 15px 25px;
+    border-radius: 3px;
+    text-align: center;
+}
+.login-box a{
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 20px;
+    color: darkgray;
+    margin: 20px;
+}
+.login-box a:hover{
+    color: #ffc107;
+}
